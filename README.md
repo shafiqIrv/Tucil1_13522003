@@ -23,13 +23,30 @@ semua sekuens berhasil dicocokkan atau buffer penuh.
 Program berikut merupakan implementasi dari pendekatan Brute Force untuk menyelesaikan mini game dari video game Cyber Punk 2077 (Cyber Punk Breach Protocol)
 
 ## Requirement Program
+
 - Python 3.12.0
 
 ## Cara Menjalankan Program:
-1. Download file zip dari repository berikut
-2.  Unzip file tersebut
-3.  Double click file executable (main.exe) dalam folder bin
-4.  Jika menggunakan file .txt sebagai input, masukkan file txt ke dalam folder "test"
+
+## Cara Menjalankan (run)
+
+1. Clone repository ini lalu buka folder dan pastikan Anda berada di root directory project ini
+
+```bash
+git clone https://github.com/shafiqIrv/Tucil1_13522003.git
+```
+
+2. Kunjungi `/bin` dimana file executeable `main.exe` disimpan
+
+```bash
+cd main
+```
+
+3. Jalankan program utama `main.exe`
+
+```bash
+./main
+```
 
 ## Identitas Pembuat
 
