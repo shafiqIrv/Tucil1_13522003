@@ -28,8 +28,6 @@ Program berikut merupakan implementasi dari pendekatan Brute Force untuk menyele
 
 ## Cara Menjalankan Program:
 
-## Cara Menjalankan (run)
-
 1. Clone repository ini lalu buka folder dan pastikan Anda berada di root directory project ini
 
 ```bash
