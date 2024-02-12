@@ -37,7 +37,7 @@ git clone https://github.com/shafiqIrv/Tucil1_13522003.git
 2. Kunjungi `/bin` dimana file executeable `main.exe` disimpan
 
 ```bash
-cd main
+cd bin
 ```
 
 3. Jalankan program utama `main.exe`
