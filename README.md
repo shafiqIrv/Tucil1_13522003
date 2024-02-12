@@ -9,5 +9,5 @@ Requirement
 Cara Menjalankan Program:
 - Download file zip dari repository berikut
 - Unzip file tersebut
-- Double click file executable (main.exe) dalam folder src
+- Double click file executable (main.exe) dalam folder bin
 - Jika menggunakan file .txt sebagai input, masukkan file txt ke dalam folder "test"
