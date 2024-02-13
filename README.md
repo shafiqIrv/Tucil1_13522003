@@ -28,7 +28,7 @@ Program berikut merupakan implementasi dari pendekatan Brute Force untuk menyele
 
 ## Cara Menjalankan Program:
 
-1. Clone repository ini lalu buka folder dan pastikan Anda berada di root directory project ini
+1. Clone repository berikut, pastikan current working directory berada dalam root directory projek
 
 ```bash
 git clone https://github.com/shafiqIrv/Tucil1_13522003.git
@@ -50,4 +50,4 @@ cd bin
 
 |   NIM    |        Nama         |
 | :------: | :-----------------: |
-| 13522003 | Shafiq irvansyah |
+| 13522003 |   Shafiq irvansyah  |
